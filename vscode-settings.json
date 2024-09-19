@@ -1,9 +1,7 @@
 {
   "workbench.startupEditor": "none",
   "update.showReleaseNotes": false,
-  "workbench.colorTheme": "Catppuccin Frappé",
   "workbench.iconTheme": "catppuccin-frappe",
-  "catppuccin.accentColor": "blue",
 
   "editor.cursorStyle": "block",
   "editor.fontSize": 12,
