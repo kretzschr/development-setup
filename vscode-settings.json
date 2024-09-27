@@ -2,13 +2,16 @@
   "workbench.startupEditor": "none",
   "update.showReleaseNotes": false,
   "workbench.iconTheme": "catppuccin-frappe",
-
+    
   "editor.cursorStyle": "block",
+  "editor.fontFamily": "'Inconsolata-g for Powerline', Menlo, Monaco, 'Courier New', monospace",
   "editor.fontSize": 12,
   "editor.guides.bracketPairs": "active",
   "editor.guides.bracketPairsHorizontal": "active",
+  "editor.lineHeight": 1.7,
   "editor.minimap.enabled": false,
   "editor.stickyScroll.enabled": false,
+  "terminal.integrated.fontFamily": "'Inconsolata-g for Powerline'",
   "terminal.integrated.fontSize": 12,
   "workbench.tree.indent": 20,
 
